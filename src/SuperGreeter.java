@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Comment
 public class SuperGreeter {
     Scanner sc = new Scanner(System.in);
     public void start(){
